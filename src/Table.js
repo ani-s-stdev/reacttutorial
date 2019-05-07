@@ -1,4 +1,4 @@
-import React,  {Component} from 'react'
+import React,  {Component} from 'react';
 
 class Table extends Component {
     render() {
@@ -41,4 +41,4 @@ const TableBody = (props) => {
 };
 
 
-export default Table
+export default Table;
